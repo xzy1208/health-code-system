@@ -1,0 +1,35 @@
+@charset "UTF-8";
+html,body,div,span,h1,h2,h4,p,header{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
+header{display: block;}
+body{
+	background: #89bdc5;
+}
+.header {
+    text-align: center;
+    margin-top:1em;
+    margin-bottom:1em;
+    font-size: 3.5em;
+    color: #fff;
+}
+h2 {
+    font-size: 2em;
+    text-transform: capitalize;
+    color: #fff;
+	text-align: center;
+}
+h3 {
+    text-transform: capitalize;
+    color: #fff;
+	text-align: center;
+}
+.ewm{
+	display:block;
+	text-align:center;
+	margin-bottom:1em;
+}
+.footer{
+	font-size:0.9em;
+	color: #fff;
+	text-align: center;
+	margin-bottom:1em;
+}
